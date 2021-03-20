@@ -1,9 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74B36B43-D6A5-4975-A0CE-1368A410BAD8}"
-ProjectSection(SolutionItems) = preProject
-	src\.gitignore = src\.gitignore
-EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{5E8B89B2-37E0-42AE-BC3F-06602E01193A}"
 EndProject
